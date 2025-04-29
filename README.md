@@ -38,9 +38,11 @@ Here are the tools and technologies I work with:
 <!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhalishMadani&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalishMadani&layout=compact&theme=radical" alt="Top Languages">
