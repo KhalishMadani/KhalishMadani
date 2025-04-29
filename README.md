@@ -1,7 +1,9 @@
 <!-- Banner or Cover Image -->
+<!--
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-banner-image" alt="Banner" width="100%">
 </p>
+-->
 
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋 I'm Khalish Madani</h1>
