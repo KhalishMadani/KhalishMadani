@@ -32,7 +32,7 @@ Here are the tools and technologies I work with:
 ![Python](https://img.shields.io/badge/Python-blueviolet)
 
 ### 📦 Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?logo=vue&logoColor=white)
+![Vue.Js](https://img.shields.io/badge/React-61DAFB?logo=vue&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
 
