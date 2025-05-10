@@ -32,8 +32,13 @@ Here are the tools and technologies I work with:
 ![Python](https://img.shields.io/badge/Python-blueviolet)
 
 ### 📦 Frameworks
-![Vue.Js](https://img.shields.io/badge/Vue.js-61DAFB?logo=vue&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 
 <!-- Add more badges or text for your tech stack -->
