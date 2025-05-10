@@ -27,8 +27,8 @@
 ### 🛠️ Tech Stack
 Here are the tools and technologies I work with:
 
-![Languages](https://img.shields.io/badge/Code-JavaScript-blue)
-![Frameworks](https://img.shields.io/badge/Framework-React-blue)
+![Languages](https://img.shields.io/badge/Code-Python-yellow)
+![Frameworks](https://img.shields.io/badge/Framework-Django-blue)
 ![Tools](https://img.shields.io/badge/Tools-GitHub-blue)
 
 <!-- Add more badges or text for your tech stack -->
