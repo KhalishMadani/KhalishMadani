@@ -65,7 +65,7 @@ Here are the tools and technologies I work with:
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **[Project 1](https://github.com/your-repo-name)** | Brief description of the project. | [GitHub](https://github.com/your-repo-name) |
+| **[Project 1]([https://github.com/KhalishMadani/DistributeDays])** | a minimal to-do list desktop application built using ElectronJS. | [GitHub](https://github.com/KhalishMadani/DistributeDays) |
 | **[Project 2](https://github.com/your-repo-name)** | Another amazing project. | [GitHub](https://github.com/your-repo-name) |
 
 ---
