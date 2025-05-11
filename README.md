@@ -65,7 +65,7 @@ Here are the tools and technologies I work with:
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **[Distribute Days](https://github.com/KhalishMadani/DistributeDays)** | a minimal to-do list desktop application built using ElectronJS. | [GitHub](https://github.com/KhalishMadani/DistributeDays) |
+| **[Distribute Days](https://github.com/KhalishMadani/DistributeDays)** | A minimal to-do list desktop application built using ElectronJS. | [GitHub](https://github.com/KhalishMadani/DistributeDays) |
 | **[Project 2](https://github.com/your-repo-name)** | Another amazing project. | [GitHub](https://github.com/your-repo-name) |
 
 ---
