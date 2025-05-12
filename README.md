@@ -6,7 +6,7 @@
 -->
 
 <!-- Introduction -->
-<h1 align="center">Hi there! 👋 I'm Khalish Madani</h1>
+<h1 align="center">Hi there! I'm Khalish Madani 🖐</h1>
 <p align="center">
   🌟 Welcome to my GitHub profile! I'm a passionate developer, problem solver, and lifelong learner. 
 </p>
