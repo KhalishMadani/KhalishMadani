@@ -72,9 +72,9 @@ Here are the tools and technologies I work with:
 <!-- Connect With Me Section -->
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/madanikhalish)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:khalishmadani112@gmail.com)
 
 ---
 
