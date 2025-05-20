@@ -16,10 +16,9 @@
 <!-- About Me Section -->
 ### 👨‍💻 About Me
 - 💡 **Who I Am**: A developer with a knack for solving complex problems and building efficient solutions.
-- 🌱 **Currently Learning**: [Insert what you're currently learning or exploring]
-- 💬 **Ask Me About**: [Your expertise areas, e.g., Web Development, Python, Open Source]
-- 🎯 **Goals for 2025**: [Share your goals, e.g., "Contribute to 10 open-source projects"]
-- ⚡ **Fun Fact**: [Add something fun or unique about yourself]
+- 🌱 **Currently Learning**: Lead software developer team.
+- 💬 **Ask Me About**: Web Development, Python.
+- ⚡ **Fun Fact**: Drinking green tea in the morning may help your bad breath.
 
 ---
 
