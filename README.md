@@ -30,9 +30,12 @@ Here are the tools and technologies I work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
 ![Python](https://img.shields.io/badge/Python-blueviolet)
 
-### 📦 Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+### 📦 Frameworks  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)  
+![Electron](https://img.shields.io/badge/Electron-2C2E3B?logo=electron&logoColor=9FEAF9)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
